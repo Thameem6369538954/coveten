@@ -1,6 +1,6 @@
 "use client";
-import React, { useState } from "react";
-import Map from "../../public/Map.jpg"
+import React from "react";
+// import Map from "../../public/Map.jpg"
 
 
 const Contact = () => {
