@@ -9,7 +9,7 @@ const Contact = () => {
     <div>
       <div className="w-full min-h-[100vh] bg-white px-[1em] m-[auto] flex items-center justify-center flex-col">
         <div className="w-full flex flex-col  sm:flex-col md:flex-col lg:flex-row items-center justify-around p-[1em] gap-3 m-[auto]">
-          <div className="w-[90%] md:w-[50%] lg:w-[70%] grid place-items-center px-[4em] py-[4em] sm:px-[2em]">
+          <div className="w-[100%] lg:w-[100%] md:w-[50%] lg:w-[70%] grid place-items-center px-[1em] py-[1em] lg:px-[4em] lg:py-[4em] sm:px-[2em]">
             <h1 className="text-3xl font-bold text-black font-heading md:text-black sm:text-4xl lg:text-6xl">
               Contact Us
             </h1>

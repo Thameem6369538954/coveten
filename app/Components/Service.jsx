@@ -67,8 +67,8 @@ const About = () => {
   return (
     <div>
       <div className="">
-        <div className="  w-full lg:min-h-[100vh] min-h-[50vh] lg:bg-white px-[1em] m-[auto]  ">
-          <h1 className='text-3xl md:text-5xl lg:text-5xl relative lg:left-[0%] md:left-[0%] sm:left-[5%]   after:left-[300px] lg:top-40 font-bold text-black  font-heading after:content-[""] after:block after:w-1/4 after:h-1 after:bg-primary after:rounded after:left-[22%] sm:after:left-[35%]  after:top-[40%]   after:absolute '>
+        <div className="  w-full lg:min-h-[100vh] min-h-[50vh] lg:bg-white px-[1em] m-[auto]  relative ">
+          <h1 className='text-3xl md:text-5xl lg:text-5xl relative lg:left-[0%] md:left-[0%] sm:left-[5%]   after:left-[100%] lg:top-40 font-bold text-black  font-heading after:content-[""] after:block after:w-1/4 after:h-1 after:bg-primary after:rounded after:left-[60%] sm:after:left-[35%]  after:top-[40%]   after:absolute '>
             Service
           </h1>
           <div className="w-[100%] lg:min-h-[20vh]  m-[auto] "></div>

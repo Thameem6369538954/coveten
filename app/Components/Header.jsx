@@ -15,8 +15,8 @@ const Header = () => {
 
   return (
     <div className="">
-      <div className="sm:flex md:flex lg:flex justify-center items-center m-[auto] w-full min-h-[90vh]">
-        <div className="w-[90%] md:w-[50%] lg:w-[70%] grid place-items-center px-[4em] py-[4em] sm:px-[2em] ">
+      <div className="sm:flex md:flex lg:flex justify-center items-center m-[auto] w-full min-h-[100vh] m-[auto]">
+        <div className="w-[70%] md:w-[50%] lg:w-[70%] grid place-items-center m-[auto] px-[1em] py-[1em] lg:px-[4em] lg:py-[4em] sm:px-[2em] ">
           <h1 className="text-3xl font-bold text-black font-heading md:text-black sm:text-4xl lg:text-6xl">
             Fuel Your Growth with <span className="text-primary ">Coveten</span>
           </h1>
@@ -25,7 +25,7 @@ const Header = () => {
             designed to accelerate growth, enhance efficiency, and ensure
             success.
           </p>
-          <div className="mt-[2em]">
+          <div className="mt-[2em] m-[auto]">
             <button className="bg-primary text-white font-sans text-2xl py-3 px-5 hover:text-black rounded hover:bg-transparent hover:border-2 border-primary ">
               Get Started
             </button>
