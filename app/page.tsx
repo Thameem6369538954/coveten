@@ -1,4 +1,3 @@
-// import Image from "next/";
 import Nav from "./Components/Nav";
 import Home from "./Components/Home.jsx";
 import Footer from "./Components/Footer.jsx";
