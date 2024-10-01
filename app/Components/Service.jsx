@@ -3,7 +3,6 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-// import { IoSomeIcon } from "react-icons/io5";
 import { IoArrowBack, IoArrowForward } from 'react-icons/io5'; // Importing icons from react-icons
 import { CgRadioChecked } from "react-icons/cg";
 
